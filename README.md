@@ -15,3 +15,33 @@
 ````
 For example, hp, aix, and sco would be poor variable names because they are the names of Unix platforms or variants. Even if you are coding a hypotenuse and hp looks like a good abbreviation, it could be disinformative.
 ````
+### 8. If names must be different, then they should also mean something:
+#### i. Imagine that you have a:
+````
+Product class
+````
+#### ii. If you have another called:
+````
+ProductInfo or ProductData, you have made the names different without making them mean anything different.
+````
+#### iii. Info and Data are indistinct noise words like a, an, and the.
+#### iv. The problem comes in when you decide to call a variable: 
+````
+" theZork "  because you already have another variable named " zork ".
+````
+### 9. Noise words are redundant. The words should never appear in a variable or table name:
+````
+a. variable
+b. table
+c. NameString
+d. Name
+````
+#### i. Imagine finding one class named:
+````
+Customer
+````
+#### ii. And another named:
+````
+CustomerObject.
+````
+#### iii. What should you understand as the distinction? Which one will represent the best path to a customer’s payment history?

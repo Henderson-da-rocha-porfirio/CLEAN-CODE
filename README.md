@@ -11,3 +11,7 @@
 ````
 ### 5. If a name requires a comment, then the name does not reveal its intent.
 ### 6. Choosing names that reveal intent can make it much easier to understand and change code.
+### 7. Avoid Disinformation. We should avoid words whose entrenched meanings vary from our intended meaning.
+````
+For example, hp, aix, and sco would be poor variable names because they are the names of Unix platforms or variants. Even if you are coding a hypotenuse and hp looks like a good abbreviation, it could be disinformative.
+````

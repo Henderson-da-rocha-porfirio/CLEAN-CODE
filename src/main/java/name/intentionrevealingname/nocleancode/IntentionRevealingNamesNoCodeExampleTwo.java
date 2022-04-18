@@ -10,7 +10,7 @@ package src.main.java.name.intentionrevealingname.nocleancode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class NamesArrayListNothing {
+public class IntentionRevealingNamesNoCodeExampleTwo {
     public List<int[]> getThem() {
         List<int[]> list1 = new ArrayList<int[]>();
         for (int[] x : theList)

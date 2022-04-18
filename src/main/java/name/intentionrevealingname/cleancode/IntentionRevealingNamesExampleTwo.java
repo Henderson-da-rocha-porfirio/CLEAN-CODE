@@ -7,7 +7,7 @@ package src.main.java.name.intentionrevealingname.cleancode;
 
 
 
-public class NamesArrayList {
+public class IntentionRevealingNamesExampleTwo {
 
     /*public List< int[]>getFlaggedCells(){
     List< int[]>flaggedCells=new ArrayList< int[]>();

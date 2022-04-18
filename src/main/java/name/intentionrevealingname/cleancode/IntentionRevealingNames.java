@@ -1,4 +1,4 @@
-package src.main.java.name.cleancode;
+package src.main.java.name.intentionrevealingname.cleancode;
 
 // We should choose a name that specifies what is being measured and the unit of that measurement:
 

@@ -10,3 +10,4 @@
 3. how it is used.
 ````
 ### 5. If a name requires a comment, then the name does not reveal its intent.
+### 6. Choosing names that reveal intent can make it much easier to understand and change code.

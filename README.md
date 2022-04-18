@@ -45,3 +45,6 @@ Customer
 CustomerObject.
 ````
 #### iii. What should you understand as the distinction? Which one will represent the best path to a customer’s payment history?
+
+### 10. So make your names pronounceable.
+

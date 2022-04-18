@@ -9,4 +9,4 @@
 2. what it does
 3. how it is used.
 ````
-### If a name requires a comment, then the name does not reveal its intent.
+### 5. If a name requires a comment, then the name does not reveal its intent.

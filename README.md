@@ -1,2 +1,4 @@
 # CLEAN CODE
-### 1. Lembre-se de que o código é realmente a linguagem na qual expressamos os requisitos.
+## I took these instructions from the Clean Code Book (Robert C. Martin)
+### 1. Remember that code is really the language in which we ultimately express the requirements.
+### 2. It was the bad code that brought the company down.

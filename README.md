@@ -25,3 +25,23 @@ Product class
 ProductInfo or ProductData, you have made the names different without making them mean anything different.
 ````
 #### iii. Info and Data are indistinct noise words like a, an, and the.
+#### iv. The problem comes in when you decide to call a variable: 
+````
+" theZork "  because you already have another variable named " zork ".
+````
+### 9. Noise words are redundant. The words should never appear in a variable or table name:
+````
+a. variable
+b. table
+c. NameString
+d. Name
+````
+#### i. Imagine finding one class named:
+````
+Customer
+````
+#### ii. And another named:
+````
+CustomerObject.
+````
+#### iii. What should you understand as the distinction? Which one will represent the best path to a customer’s payment history?

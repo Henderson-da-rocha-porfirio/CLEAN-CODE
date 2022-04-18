@@ -6,7 +6,7 @@ package src.main.java.name.intentionrevealingname.nocleancode;
 public class DisinformativeNames {
 
     int a = l;
-    if ( O = = l )
+    if ( O == l )
         a = O1;
     else
         l = 01;

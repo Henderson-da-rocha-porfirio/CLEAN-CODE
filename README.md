@@ -15,3 +15,13 @@
 ````
 For example, hp, aix, and sco would be poor variable names because they are the names of Unix platforms or variants. Even if you are coding a hypotenuse and hp looks like a good abbreviation, it could be disinformative.
 ````
+### 8. If names must be different, then they should also mean something:
+#### i. Imagine that you have a:
+````
+Product class
+````
+#### ii. If you have another called:
+````
+ProductInfo or ProductData, you have made the names different without making them mean anything different.
+````
+#### iii. Info and Data are indistinct noise words like a, an, and the.

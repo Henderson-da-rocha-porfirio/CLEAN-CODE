@@ -16,7 +16,7 @@ public class ConstructorNames {
         ph2.setType("home");
 
         cliente.addNumeroTelefone(fone1);
-        cliente.addNumeroTelefone(fone2);
+        cliente.addNumeroTelefone(fone2)
 
         repository.save(cliente);
     }

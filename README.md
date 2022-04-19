@@ -50,3 +50,7 @@ CustomerObject.
 
 ### 11. Don’t Add Gratuitous Context In an imaginary application called “Gas Station Deluxe,” it is a bad idea to prefix every class with GSD.
 
+### 12. People are also afraid of renaming things for fear that some other developers will object. 
+````
+We do not share that fear and find that we are actually grateful when names change (for the better).
+````

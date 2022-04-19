@@ -48,3 +48,5 @@ CustomerObject.
 
 ### 10. So make your names pronounceable.
 
+### 11. Don’t Add Gratuitous Context In an imaginary application called “Gas Station Deluxe,” it is a bad idea to prefix every class with GSD.
+

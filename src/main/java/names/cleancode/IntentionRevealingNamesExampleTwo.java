@@ -2,7 +2,7 @@ package src.main.java.names.cleancode;
 
 // Notice that the simplicity of the code has not changed. It still has exactly the same number of operators and constants, with exactly the same number of nesting levels.
 
-/*We can go further and write a simple class for cells instead of using an array of ints. It can include an intention-revealing function
+/*We can go further and write a simple classes for cells instead of using an array of ints. It can include an intention-revealing function
         (call it isFlagged) to hide the magic numbers. It results in a new version of the function:*/
 
 

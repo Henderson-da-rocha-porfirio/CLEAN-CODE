@@ -1,7 +1,7 @@
 package src.main.java.names.cleancode.variables;
 
 /*The function is a bit too long and the variables are used throughout.
- To split the function into smaller pieces we need to create a GuessStatisticsMessage class and make the three variables fields of this class.
+ To split the function into smaller pieces we need to create a GuessStatisticsMessage classes and make the three variables fields of this classes.
   This provides a clear context for the three variables. They are definitively part of the GuessStatisticsMessage.
  The improvement of context also allows the algorithm to be made much cleaner by breaking it into many smaller functions. (See Listing 2-2.): */
 public class VariablesClearContext {

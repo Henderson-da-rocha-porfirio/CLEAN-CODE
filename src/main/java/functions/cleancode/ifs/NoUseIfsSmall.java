@@ -16,7 +16,7 @@ public class NoUseIfsSmall {
         "FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY."
         #### i. The problem with this statement is that it is hard to know what “one thing” is:
         ````
-        NoUseIfSmall class do one thing?
+        NoUseIfSmall classes do one thing?
         ````
         #### ii. It’s easy to make the case that it’s doing three things:
         ````

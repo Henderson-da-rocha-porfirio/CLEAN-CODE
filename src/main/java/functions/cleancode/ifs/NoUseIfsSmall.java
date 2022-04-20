@@ -11,3 +11,16 @@ public class NoUseIfsSmall {
         return pageData.getHtml();
     }
 }
+
+/*
+        "FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY."
+        #### i. The problem with this statement is that it is hard to know what “one thing” is:
+        ````
+        NoUseIfSmall class do one thing?
+        ````
+        #### ii. It’s easy to make the case that it’s doing three things:
+        ````
+        1. Determining whether the page is a test page.
+        2. If so, including setups and teardowns.
+        3. Rendering the page in HTML.
+        ````*/

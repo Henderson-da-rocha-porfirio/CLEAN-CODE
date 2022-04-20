@@ -1,4 +1,4 @@
-package src.main.java.functions.nocleancode;
+package src.main.java.functions.nocleancode.ifs;
 
 /*Do you understand the function after three minutes of study? Probably not.
         There’s too much going on in there at too many different levels of abstraction.

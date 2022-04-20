@@ -9,7 +9,7 @@ public class NoUseIfs {
     public static String renderPageWithSetupsAndTeardowns(
             PageData pageData, boolean isSuite
     ) throws Exception {
-        boolean isTestPage = pageData.hasAttribute(" Test");
+        boolean isTestPage = pageData.hasAttribute("Test");
         if (isTestPage) {
             WikiPage testPage = pageData.getWikiPage();
             StringBuffer newPageContent = new StringBuffer();

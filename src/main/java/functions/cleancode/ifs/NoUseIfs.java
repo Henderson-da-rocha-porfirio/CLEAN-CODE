@@ -6,6 +6,7 @@ package src.main.java.functions.cleancode.ifs;
         See whether you can understand that*/
 
 public class NoUseIfs {
+
     public static String renderPageWithSetupsAndTeardowns(
             PageData pageData, boolean isSuite
     ) throws Exception {

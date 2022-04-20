@@ -29,5 +29,5 @@ public class NoUseIfs {
         If you are familiar with JUnit, 2 you probably realize that this function belongs to some kind of Web-based testing framework.
         And, of course, that is correct.
         Divining that information, is pretty easy, but it’s pretty well obscured by example Useif.
-        So what is it that makes a function like Listing 3-2 easy to read and understand? How can we make a function communicate its intent?
+        So what is it that makes this function easy to read and understand? How can we make a function communicate its intent?
         What attributes can we give our functions that will allow a casual reader to intuit the kind of program they live inside?*/

@@ -9,6 +9,6 @@ import java.awt.*;
 
 public class ObjectsArgs {
 
-    Circle makeCircle( double x, double y, double radius);
+    Circle makeCircle(Point center, double radius);
 
 }

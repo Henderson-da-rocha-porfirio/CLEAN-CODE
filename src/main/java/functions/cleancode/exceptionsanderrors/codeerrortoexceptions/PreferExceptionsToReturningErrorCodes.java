@@ -1,6 +1,6 @@
-package src.main.java.functions.cleancode.args;
+package src.main.java.functions.cleancode.exceptionsanderrors.codeerrortoexceptions;
 
-   /* On the other hand, if you use exceptions instead of returned error codes,
+   /* On the other hand, if you use codeerrortoexceptions instead of returned error codes,
     then the error processing code can be separated from the happy path code and can be simplified:*/
 
 public class PreferExceptionsToReturningErrorCodes {

@@ -1,4 +1,4 @@
-package src.main.java.functions.nocleancode.args;
+package src.main.java.functions.nocleancode.exceptionsanderrors.codeerrortoexceptions;
 
    /* This does not suffer from verb/ adjective confusion but does lead to deeply nested structures.
             When you return an error code, you create the problem that the caller must deal with the error immediately.*/

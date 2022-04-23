@@ -1,4 +1,4 @@
-package src.main.java.functions.cleancode.tryandcatch;
+package src.main.java.functions.cleancode.exceptionsanderrors.tryandcatch;
 
 /*In the above,the delete function is all about error processing.
         It is easy to understand and then ignore.

@@ -2,6 +2,7 @@ package src.main.java.comments;
 
 import java.util.Locale;
 
+/*The proper use of comments is to compensate for our failure to express ourself in code.*/
 /*And all too often the comments get separated from the code they describe and become orphaned blurbs of ever-decreasing accuracy.
         For example, look what has happened to this comment and the line it was intended to describe:*/
 public class CommentsFails {

@@ -1,6 +1,6 @@
 /*Has a remarkably obscuring effect on the readability of the code:*/
 
-package src.main.java.formatting.nocleancode;
+package src.main.java.formatting.nocleancode.vertical;
 import java.util.regex.Matcher;
 public class VerticalBetweenConcepts extends ParentWidget {
     public static final String REGEXP = “’’’.?’’’”;

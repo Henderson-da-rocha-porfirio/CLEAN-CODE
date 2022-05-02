@@ -1,4 +1,4 @@
-package src.main.java.formatting.cleancode;
+package src.main.java.formatting.cleancode.vertical;
 
 import java.util.regex.Matcher;
 

@@ -1,4 +1,4 @@
-package src.main.java.formatting.cleancode;
+package src.main.java.formatting.cleancode.vertical;
 
 /*is much easier to read. It fits in an “eye-full,” or at least it does for me.
         I can look at it and see that this is a class with two variables and a method,

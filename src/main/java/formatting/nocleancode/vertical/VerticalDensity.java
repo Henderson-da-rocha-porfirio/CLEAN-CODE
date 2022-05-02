@@ -1,4 +1,4 @@
-package src.main.java.formatting.nocleancode;
+package src.main.java.formatting.nocleancode.vertical;
 
 /*Forces me to use much more eye and head motion to achieve the same level of comprehension.*/
 /*Notice how the useless comments the close association of the two instance variables:*/

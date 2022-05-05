@@ -1,4 +1,5 @@
 # Objects and Datas Structures
+## An object, we should be telling it to do something; we should not be asking it about its internals.
 ````
 i. Objects: hide their data behind abstractions and expose functions that operate on that data. 
 ii. Data structure: expose their data and have no meaningful functions.
@@ -43,3 +44,5 @@ That a method f of a class C should only call the methods of these:
 ````
 ### The method should not invoke methods on objects that are returned by any of the allowed functions.
 ### In other words, talk to friends, not to strangers
+## 4. Avoid Hybrids
+### This confusion sometimes leads to unfortunate hybrid structures that are half object and half data structure.

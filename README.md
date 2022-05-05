@@ -5,7 +5,7 @@ ii. Data structure: expose their data and have no meaningful functions.
 ````
 ## 1. Objects
 ````
-
+Objects: hide their data behind abstractions and expose functions that operate on that data. 
 ````
 ## 2. Datas Structures
 ### Hiding implementation:

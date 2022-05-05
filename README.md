@@ -1,9 +1,16 @@
 # Objects and Datas Structures
-## An object, we should be telling it to do something; we should not be asking it about its internals.
-````
-i. Objects: hide their data behind abstractions and expose functions that operate on that data. 
-ii. Data structure: expose their data and have no meaningful functions.
-````
+## Object:
+### a. An object, we should be telling it to do something; we should not be asking it about its internals.
+### b. Objects expose behavior and hide data. 
+### c. This makes it easy to add new kinds of objects without changing existing behaviors.
+### d. It also makes it hard to add new behaviors to existing objects.
+### e. Hide their data behind abstractions and expose functions that operate on that data.
+
+## Data structures:
+### a. Expose their data and have no meaningful functions.
+### b. Expose data and have no significant behavior.
+### c. This makes it easy to add new behaviors to existing data structures but makes it hard to add new data structures to existing functions.
+
 ### 1. Hiding implementation(objects):
 ````
 Is not just a matter of putting a layer of functions between the variables.

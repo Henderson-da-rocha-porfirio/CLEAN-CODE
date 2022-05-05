@@ -52,5 +52,5 @@ public class Payrool {
         My general rule for
         switch statements
         is that they can be tolerated if they appear only once,
-        are used to create polymorphic objects, and are hidden behind an inheritance relationship so that the rest of the system can’t see them.
+        are used to create polymorphic dataandobjects, and are hidden behind an inheritance relationship so that the rest of the system can’t see them.
         Of course every circumstance is unique, and there are times when I violate one or more parts of that rule.*/

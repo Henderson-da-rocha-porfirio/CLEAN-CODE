@@ -85,3 +85,17 @@ Ssrc/main/java/functions/nocleancode/exceptionsanderrors/dependencymagnet/Error.
 Usrc/main/java/functions/cleancode/exceptionsanderrors/tryandcatch/TryCatchBlocks.java,6\1\619f61fb4819e98e7176b68293f882d4935112fa
 á
 Wsrc/main/java/functions/nocleancode/exceptionsanderrors/tryandcatch/TryCatchBlocks.java,8\a\8a48fe5f0b38e6103578b31a092be0203b7e09ee
+d
+4src/main/java/comments/nocleancode/Attributions.java,2\7\27b91c0307ea97e7f0c4c58b544a41ab10fed082
+g
+7src/main/java/comments/nocleancode/HtmlAbomination.java,a\5\a5410fa8e5f116e9727c4531bb55c88e5bbe34b8
+p
+@src/main/java/formatting/cleancode/vertical/VerticalDensity.java,b\a\baf881b558aa05ed8ac7de40be1615082a19bf2b
+r
+Bsrc/main/java/formatting/nocleancode/vertical/VerticalDensity.java,7\1\71b7469005af939f8eb4e9d5cd23913f4e8c975e
+
+Osrc/main/java/formatting/cleancode/vertical/VerticalDistanceVariablesLoops.java,0\c\0c3244f2a44ad6fd6058239a0046811caae8f691
+v
+Fsrc/main/java/formatting/cleancode/horizontal/PrecedenceOperators.java,f\6\f685ad2bc0432ffb5f7050c2d382501909051f10
+Å
+Qsrc/main/java/formatting/cleancode/horizontal/AssociateAndDisassociateThings.java,2\7\27f7c110b34f5286e8d1665eea9eb9c6302dec24

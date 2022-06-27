@@ -25,14 +25,8 @@ Jsrc/main/java/functions/cleancode/switches/interfaces/EmployeeFactory.java,0\6
 Rsrc/main/java/functions/cleancode/switches/implementation/EmployeeFactoryImpl.java,7\c\7cd875cf95a7dd83108de5f977c638495b871111
 t
 Dsrc/main/java/names/cleancode/IntentionRevealingNamesExampleTwo.java,1\b\1b611c61d703b9fd8ebd40a9c966f75e8fb5e556
-m
-=src/main/java/names/nocleancode/interfaces/IShapeFactory.java,3\0\303628682cf9a812234a27b70bca0c426f83513c
 h
 8src/main/java/functions/cleancode/ifs/NoUseIfsSmall.java,7\1\713717bd7b67e7fb915747df23117c39dafeb678
-j
-:src/main/java/names/cleancode/interfaces/ShapeFactory.java,7\6\76761ce2d06ed6ec643300ee66823cba9c27d6b1
-p
-@src/main/java/names/nocleancode/implementation/ShapeFactory.java,f\8\f8623c4943f99c134d808c2044c83ac07f3d9b70
 r
 Bsrc/main/java/names/cleancode/variables/VariablesClearContext.java,f\c\fc8e7cbba0c78857fb7d9139742a034f4f96357b
 Å
@@ -77,8 +71,6 @@ v
 Fsrc/main/java/formatting/cleancode/horizontal/PrecedenceOperators.java,f\6\f685ad2bc0432ffb5f7050c2d382501909051f10
 Å
 Qsrc/main/java/formatting/cleancode/horizontal/AssociateAndDisassociateThings.java,2\7\27f7c110b34f5286e8d1665eea9eb9c6302dec24
-x
-Hsrc/main/java/objects/cleancode/dataabstraction/AbstractCaseVehicle.java,6\7\673567be4c971e5f88c5ca11a2b645d727875306
 e
 5src/main/java/names/cleancode/classnames/Account.java,3\0\305ee257fa4a120839d16bef7d7444be88e61661
 k
@@ -95,8 +87,6 @@ g
 7src/main/java/functions/cleancode/args/ObjectsArgs.java,c\0\c0f8306af7f54e971acda8099491bfd1012b2906
 i
 9src/main/java/functions/nocleancode/args/ObjectsArgs.java,8\2\828b329e80c383d5281bde38a3c2fd340a40e9d7
-i
-9src/main/java/functions/nocleancode/switches/Payrool.java,f\c\fc2c90b4a07a211163cc7acaacb79dfb45843001
 i
 9src/main/java/names/nocleancode/classnames/Processor.java,3\8\38d6d31021774552268013c1bea85c842a7da67e
 f

@@ -7,7 +7,7 @@ import java.util.logging.Logger;
         and we’ve encoded that knowledge into a set of simple unit tests.
         Now we know how to get a simple console logger initialized,
         and we can encapsulate that knowledge into our own logger class so that the rest
-        of our application is isolated from the log4j boundary interface.*/
+        of our application is isolated from the log4j boundary workinginterfacesinapis.*/
 
 public class LogTest {
 

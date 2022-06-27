@@ -47,7 +47,7 @@ public class Payrool {
         isPayday,
         and deliverPay,
         will be dispatched polymorphically through the
-        Employee interfaces.
+        Employee workinginterfacesinapis.
 
         My general rule for
         switch statements

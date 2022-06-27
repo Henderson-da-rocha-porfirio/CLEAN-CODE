@@ -14,7 +14,7 @@ import java.util.logging.Logger;
         They will fix bugs and add new capabilities. With each release comes new risk.
         If the third-party package changes in some way incompatible with our tests, we will find out right away.
         Whether you need the learning provided by the learning tests or not, a clean boundary should be supported by a set
-        of outbound tests that exercise the interface the same way the production code does.
+        of outbound tests that exercise the workinginterfacesinapis the same way the production code does.
         Without these boundary tests to ease the migration, we might be tempted to stay with the old version longer than we should.*/
 
 public class Log4JTest {
